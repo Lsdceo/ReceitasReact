@@ -33,6 +33,10 @@ npm install
 npm start
 
 
+
+
+Estrutura de pastas
+
 ReceitasReact/
 ├── public/                 # Arquivos públicos
 ├── src/                    # Código-fonte React
