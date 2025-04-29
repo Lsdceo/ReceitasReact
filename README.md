@@ -14,6 +14,7 @@ ReceitasReact é uma aplicação web desenvolvida com React que permite exibir u
 - JavaScript (ES6+)
 - CSS
 - HTML
+-React-Bootstrap
 
 ## Instalação
 
